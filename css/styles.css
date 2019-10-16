@@ -17,5 +17,10 @@
 }
 #Center{
   display: block;
-  
+}
+.my-class {
+  margin: 40px;
+  border: 2px solid green;
+  padding: 7px;
+  background-color: orange;
 }
