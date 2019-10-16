@@ -1,0 +1,21 @@
+#bar-left {
+  background-color: black;
+  color: white;
+  float: left;
+  width: 200px;
+  height: 500px;
+  display: block;
+  margin-right: 50px;
+}
+.button {
+  display: block;
+  float: left;
+  margin: 0 10px;
+  padding 2px 10px;
+  background-color: gray;
+  border-radius: 5px;
+}
+#Center{
+  display: block;
+  
+}
